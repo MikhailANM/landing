@@ -1,0 +1,10 @@
+@media(max-width: 575px){
+	.menu{
+			display: none;
+	}
+	.main{
+		width: 98%;
+		margin: 0;
+		padding: 2%;
+	}
+}
